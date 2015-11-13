@@ -78,15 +78,9 @@ Given that I want to track my income and I have multiple sources of income such 
     
 [Scenario 2]
 ```````````````````````
+Expenses 
 
-::Expenses 
-
-    Given that I have different sources of income [some context]
-        And [some additional context]
-        ...
-    When [event]
-    Then [outcome]
-        And [additional outcome]
+Given that I want to track my expenses and I have multiple expenses such as my utilities, rent, student loans,        miscellaneous, etc. When I enter my expenses for the week into the Monetary Muscle main screen I would like to keep each expense as a separate variable. And have these separate variables reported to me in a user friendly way. 
         ...
 [Scenario 3]
 ```````````````````````
