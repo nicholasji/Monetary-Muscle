@@ -75,12 +75,12 @@ Acceptance Stories
 
 ::Income 
 
-    Given that I have different sources of income [some context]
-        And [some additional context]
+    Given that I want to track my income [some context]
+        And I have multiple sources of income such as my job, home business, miscellaneous, etc. [some additional context]
         ...
-    When [event]
-    Then [outcome]
-        And [additional outcome]
+    When I enter my income for the week into the Monetary Muscle main screen[event]
+    Then I would like to keep each source of income as a separate variable.[outcome]
+        And have these sperate variables reproted to me in a user friendly way. [additional outcome]
         ...
 [Scenario 2]
 ```````````````````````
