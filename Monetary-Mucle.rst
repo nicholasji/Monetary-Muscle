@@ -70,7 +70,7 @@ as quick as possible and move out of my house.
 Acceptance Stories
 ^^^^^^^^^^^^^^^^^^
 
-[Acceptance Story Name]
+[Fiona's Story]
 ```````````````````````
 
 ::
