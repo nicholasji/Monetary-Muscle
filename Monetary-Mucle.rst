@@ -70,12 +70,48 @@ as quick as possible and move out of my house.
 Acceptance Stories
 ^^^^^^^^^^^^^^^^^^
 
-[Fiona's Story]
+[Scenario 1]
 ```````````````````````
 
-::
+::Income 
 
-    Given [some context]
+    Given that I have different sources of income [some context]
+        And [some additional context]
+        ...
+    When [event]
+    Then [outcome]
+        And [additional outcome]
+        ...
+[Scenario 2]
+```````````````````````
+
+::Expenses 
+
+    Given that I have different sources of income [some context]
+        And [some additional context]
+        ...
+    When [event]
+    Then [outcome]
+        And [additional outcome]
+        ...
+[Scenario 3]
+```````````````````````
+
+::Goals & Savings
+
+    Given that I have different sources of income [some context]
+        And [some additional context]
+        ...
+    When [event]
+    Then [outcome]
+        And [additional outcome]
+        ...
+[Scenario 4]
+```````````````````````
+
+::Reminders, Encouragment, and Advice
+
+    Given that I have different sources of income [some context]
         And [some additional context]
         ...
     When [event]
