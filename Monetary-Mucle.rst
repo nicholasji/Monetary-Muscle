@@ -92,6 +92,6 @@ Given that I have different goals for my fiancnes I would like to keep track of 
 [Scenario 4]
 ```````````````````````
 
-::Reminders
+Reminders
 
 Given that I that I am forgetful and want to improve my credit score, I would like to keep track of the due dates of my bills. On the main screen of Monetary Muscle, I would like to enter each bill due date that will be saved in a dictionary. I would like to have the option of adding and deleting items from the dictionary.
