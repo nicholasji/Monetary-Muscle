@@ -81,25 +81,20 @@ Given that I want to track my income and I have multiple sources of income such 
 Expenses 
 
 Given that I want to track my expenses and I have multiple expenses such as my utilities, rent, student loans,        miscellaneous, etc. When I enter my expenses for the week into the Monetary Muscle main screen I would like to keep each expense as a separate variable. And have these separate variables reported to me in a user friendly way. 
-        ...
+
 [Scenario 3]
 ```````````````````````
 
-::Goals & Savings
+Goals & Savings
 
-    Given that I have different sources of income [some context]
-        And [some additional context]
-        ...
-    When [event]
-    Then [outcome]
-        And [additional outcome]
-        ...
+Given that I have different goals for my fiancnes I would like to keep track of my goals and the amount of money in my account. When I enter my goals into the Monetary Muscle main screen I would like to keep track of each goal. By typing the keyword 'balance" I would like to display my current account balance. 
+
 [Scenario 4]
 ```````````````````````
 
 ::Reminders, Encouragment, and Advice
 
-    Given that I have different sources of income [some context]
+    Given that I that I am forgetful [some context]
         And [some additional context]
         ...
     When [event]
