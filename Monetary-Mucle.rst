@@ -87,7 +87,7 @@ Given that I want to track my expenses and I have multiple expenses such as my u
 
 Goals & Savings
 
-Given that I have different goals for my fiancnes I would like to keep track of my goals and the amount of money in my account. When I enter my goals into the Monetary Muscle main screen I would like to keep track of each goal. By typing the keyword 'balance" I would like to display my current account balance. 
+Given that I have different goals for my fiancnes I would like to keep track of my goals and the amount of money in my account. When I enter my goals into the Monetary Muscle main screen I would like to keep track of each goal. Also I would like  to be able to check my blance.
 
 [Scenario 4]
 ```````````````````````
